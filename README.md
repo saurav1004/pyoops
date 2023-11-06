@@ -44,10 +44,9 @@ To use these scripts, you should have Python installed on your system. Each scri
 
 ```bash
 python <script_name>.py
-
+```
 
 ### Disclaimer 
-## Disclaimer
 
 This is an educational project, and it has been created with the help of numerous resources. While we have tried our best to cite sources where applicable, due to the collaborative and educational nature of this project, some sources may not be directly acknowledged. This is purely unintentional, and we appreciate the collective wisdom of the programming community that has made this repository possible.
 
