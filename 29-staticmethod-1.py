@@ -3,7 +3,7 @@
 # 29-staticmethod-1.py
 
 """
-# Refer https://arvimal.wordpress.com/2016/06/12/instance-class-static-methods-object-oriented-programming/
+# Reference: https://www.python-course.eu/python3_class_and_instance_attributes.php
 # a) Static methods are functions methods which doesn’t need a binding 
 # to a class or an instance.
 # b) Static methods, as well as Class methods, don’t require an instance 

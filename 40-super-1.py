@@ -5,8 +5,12 @@
 # This is an example on how super() works
 # in Inheritance.
 
-# For more step-by-step details, refer :
-# https://arvimal.wordpress.com/2016/07/01/inheritance-and-super-object-oriented-programming/
+# Reference: https://www.python-course.eu/python3_inheritance.php
+# super() is a built-in function that returns a proxy object (temporary object of the superclass) that allows us to access methods of the base class.
+# In Python, super() has two major use cases:
+# Allows us to avoid using base class explicitly
+# Working with Multiple Inheritance 
+
 
 
 class MyClass(object):

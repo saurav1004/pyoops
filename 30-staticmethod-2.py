@@ -3,9 +3,7 @@ from __future__ import print_function
 
 # 30-staticmethod-2.py
 
-# Refer
-# https://arvimal.wordpress.com/2016/06/12/instance-class-static-methods-object-oriented-programming/
-
+# Reference: https://www.python-course.eu/python3_class_and_instance_attributes.php
 # Static methods are functions/methods which doesn’t need a binding to a class or an instance.
 # Static methods, as well as Class methods, don’t require an instance to be called.
 # Static methods doesn’t need  self or cls as the first argument since it’s not bound to an instance or class.

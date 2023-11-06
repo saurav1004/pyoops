@@ -34,7 +34,7 @@ class Name(object):
         return " ".join([self.first_name, self.last_name])
 
 
-result = Name("Vimal", "A.R").full_name()
+result = Name("Robert", "Kiyosaki").full_name()
 print("Full name: {0}".format(result))
 
 

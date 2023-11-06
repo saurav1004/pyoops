@@ -4,8 +4,7 @@
 
 # super() and __init__()
 
-# Refer
-# https://arvimal.wordpress.com/2016/07/01/inheritance-and-super-object-oriented-programming/
+# Reference: http://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods
 
 # http://www.blog.pythonlibrary.org/2014/01/21/python-201-what-is-super/
 

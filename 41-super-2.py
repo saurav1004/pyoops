@@ -2,11 +2,7 @@
 
 # 41-super-2.py
 
-# For more information on how this works, refer:
 
-# https://arvimal.wordpress.com/2016/07/01/inheritance-and-super-object-oriented-programming/
-
-# https://arvimal.wordpress.com/2016/06/29/inheritance-and-method-overloading-object-oriented-programming/
 
 import abc
 
